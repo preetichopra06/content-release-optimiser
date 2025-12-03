@@ -71,9 +71,3 @@ optimising-content-release/
 ├── reports/
 │   ├── figures/                # Saved plots (confusion matrix, feature importance)
 │   └── results.md              # Summary of metrics and findings
-
-
-## (OPTIONAL: CONTACT DETAILS)
-Prepared by Preeti  
-Email: preeti_chopra06@yahoo.co.in
-LinkedIn: https://www.linkedin.com/in/preeti-chopra-09557743/
